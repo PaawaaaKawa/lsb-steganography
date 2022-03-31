@@ -1,7 +1,5 @@
 # LSB Steganography   
 
-This is the LSB Steganography project by python programming language, first, this project was written by Devang Jain I tried to find a Github account but I failed, so I update this project to better and work professionally   
-
 Steganography is hiding a message inside an image by replacing each pixel’s least significant bit with the bits of the message to be hidden.   
 
  the usage of a program
